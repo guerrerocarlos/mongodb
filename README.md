@@ -1,10 +1,10 @@
 tutum-docker-mongodb
 ====================
 
-[![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
-
 Base docker image to run a MongoDB database server
 
+Instructions on how to use with docker-compose can be found here:
+https://hub.docker.com/r/guerrerocarlos/secured-mongodb/
 
 MongoDB version
 ---------------
