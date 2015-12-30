@@ -3,7 +3,7 @@ tutum-docker-mongodb
 
 Base docker image to run a MongoDB database server
 
-Instructions on how to use with docker-compose can be found here:
+Instructions on how to use with docker-compose:
 https://hub.docker.com/r/guerrerocarlos/secured-mongodb/
 
 MongoDB version
