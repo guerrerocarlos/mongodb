@@ -1,4 +1,4 @@
-tutum-docker-mongodb
+secured-mongodb for docker
 ====================
 
 Base docker image to run a MongoDB database server
